@@ -1,0 +1,2 @@
+# typescript-works
+typescript çalışmalarım
